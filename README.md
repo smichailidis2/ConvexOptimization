@@ -1,3 +1,3 @@
 # ConvexOptimization
 
-![image](https://github.com/smichailidis2/ConvexOptimization/assets/82328705/acbfa6c5-cec8-4081-83b9-c843a86d24c9)
+![image](https://github.com/smichailidis2/ConvexOptimization/assets/82328705/fc9dcabe-a700-4426-b89b-753335887fe3)
